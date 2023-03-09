@@ -1,0 +1,4 @@
+baseURL = 'https://woyin.github.io'
+languageCode = 'zh-cn'
+title = '敏捷传习录'
+theme = 'ananke'
